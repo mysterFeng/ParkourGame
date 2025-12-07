@@ -1,0 +1,32 @@
+# =============== Unity Generated Files ===============
+# Cache
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/UserSettings/
+
+# Logs
+/Logs/
+
+# Packages
+/Packages/manifest.json.meta
+/Packages/packagelock.json
+
+# Misc
+*.pid
+*.unityproj
+*.suo
+*.sln.Ghost
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.asset
+
+# =============== macOS/Linux Specific ===============
+.DS_Store
+# =============== Visual Studio/IDE Specific ===============
+.vs/
+*.sln
